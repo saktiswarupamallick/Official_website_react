@@ -4,7 +4,7 @@ import quotes from "./quotes.png";
 import robot from "./robot.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
-import star from "./Star.png";
+import star from "./star.png";
 import menu from "./menu.png";
 import close from "./close.png";
 
@@ -35,10 +35,6 @@ export {
   star,
   menu,
   close,
-  
-  
- 
-
   people01,
 
   png,morpharma,
